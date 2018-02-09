@@ -1,1 +1,19 @@
-theme: jekyll-theme-merlot
+baseurl: http://www.bjornarneson.com
+title: 'bjornarneson.com'
+name: 'Bjorn Arneson'
+email: mail@bjornarneson.com
+slogan: 'Jack of Some Trades'
+permalink: /posts/:year/:month/:day/:title/
+
+menus:
+  main:
+    - title: 'home'
+      href: '/'
+    - title: 'posts'
+      href: '/posts/'
+    - title: 'about'
+      href: '/about/'
+    - title: 'twitter'
+      href: 'http://twitter.com/bjornarneson'
+    
+    
