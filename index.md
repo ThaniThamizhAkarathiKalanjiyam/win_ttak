@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## நல்வரவு
 
-You can use the [editor on GitHub](https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்!
 
 ### Markdown
 
