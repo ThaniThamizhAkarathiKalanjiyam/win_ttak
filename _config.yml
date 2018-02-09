@@ -1,8 +1,8 @@
-baseurl: http://www.bjornarneson.com
-title: 'bjornarneson.com'
-name: 'Bjorn Arneson'
-email: mail@bjornarneson.com
-slogan: 'Jack of Some Trades'
+baseurl: https://groups.yahoo.com/group/isaiyini
+title: 'தனித்தமிழகராதிகளஞ்சியம்'
+name: 'தனித்தமிழகராதிகளஞ்சியம்'
+email: isaiyini@yahoogroups.com
+slogan: 'தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்'
 permalink: /posts/:year/:month/:day/:title/
 
 menus:
