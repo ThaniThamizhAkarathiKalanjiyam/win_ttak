@@ -1,19 +1,19 @@
 baseurl: https://groups.yahoo.com/group/isaiyini
-title: 'தனித்தமிழகராதிகளஞ்சியம்'
-name: 'தனித்தமிழகராதிகளஞ்சியம்'
+title: 'தனித்தமிழகராதிக்களஞ்சியம்'
+name: 'தனித்தமிழகராதிக்களஞ்சியம்'
 email: isaiyini@yahoogroups.com
 slogan: 'தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்'
 permalink: /posts/:year/:month/:day/:title/
 
 menus:
   main:
-    - title: 'home'
+    - title: 'நுழைவு'
       href: '/'
-    - title: 'posts'
+    - title: 'பதிவுகள்'
       href: '/posts/'
-    - title: 'about'
+    - title: 'குறிப்படனை'
       href: '/about/'
-    - title: 'twitter'
-      href: 'http://twitter.com/bjornarneson'
+    - title: 'புதிய சொற்கோவைகள்'
+      href: '/definitions/'
     
     
