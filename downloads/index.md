@@ -1,11 +1,16 @@
----
-title: 'Archived Posts'
-layout: page
-published: true
----
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
 
-<ul class="posts">
-  {% for post in site.downloads %}
-    <li><span>{{ post.date | date: "%m/%d/%y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+{{ t | downcase }}
+<ul>
+{% for post in posts %}
+  {% if post.tags contains t %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
 </ul>
+{% endfor %}
