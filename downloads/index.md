@@ -1,16 +1,18 @@
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-
-{{ t | downcase }}
-<ul>
-{% for post in posts %}
-  {% if post.tags contains t %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-  </li>
+<ul class="posts">
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% if post.tags contains 'question' %}
+    {% if count < 20 %}
+      {% assign count = count|plus:1 %}
+      <div class="post_info">
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+        </li>
+      </div>
+    {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
-{% endfor %}
+
+finished
