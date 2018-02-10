@@ -1,6 +1,6 @@
 {% for tag in site.tags %}
-  {% assign t = tag | definitions %}
-  {% assign posts = tag | learning %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
 
 {{ t | downcase }}
 <ul>
