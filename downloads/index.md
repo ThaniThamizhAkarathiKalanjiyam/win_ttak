@@ -1,8 +1,3 @@
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-
-{{ t | downcase }}
 <ul>
 {% for post in posts %}
   {% if post.tags contains "definitions" %}
@@ -13,4 +8,3 @@
   {% endif %}
 {% endfor %}
 </ul>
-{% endfor %}
