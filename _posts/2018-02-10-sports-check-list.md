@@ -4,7 +4,7 @@ title: Thoughts for Tomorrow
 author: Bjorn Arneson
 layout: post
 tags: 
-- sports
+- question
 ---
 
 sports are cheked
