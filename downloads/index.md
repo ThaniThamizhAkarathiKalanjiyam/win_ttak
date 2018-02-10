@@ -1,4 +1,6 @@
-<ul class="posts">
+### பதிவிறக்கங்கள்:
+
+<ol class="posts">
 {% assign count = 0 %}
 {% for post in site.posts %}
   {% if post.tags contains 'downloads' %}
@@ -13,6 +15,6 @@
     {% endif %}
   {% endif %}
 {% endfor %}
-</ul>
+</ol>
 
-finished
+=*=
