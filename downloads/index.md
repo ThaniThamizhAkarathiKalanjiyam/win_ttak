@@ -1,7 +1,7 @@
 <ul class="posts">
 {% assign count = 0 %}
 {% for post in site.posts %}
-  {% if post.tags contains 'question' %}
+  {% if post.tags contains 'downloads' %}
     {% if count < 20 %}
       {% assign count = count|plus:1 %}
       <div class="post_info">
