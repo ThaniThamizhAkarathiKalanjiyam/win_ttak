@@ -1,4 +1,7 @@
-### பதிவிறக்கங்கள்:
+---
+title: பதிவிறக்கங்கள்
+author: Tamilan
+---
 
 <ol class="posts">
 {% assign count = 0 %}
