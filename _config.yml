@@ -1,4 +1,4 @@
-baseurl: https://groups.yahoo.com/group/isaiyini
+baseurl: https://thanithamizhakarathikalanjiyam.github.io/
 title: 'தனித்தமிழகராதிக்களஞ்சியம்'
 name: 'தனித்தமிழகராதிக்களஞ்சியம்'
 email: isaiyini@yahoogroups.com
@@ -7,13 +7,15 @@ permalink: /posts/:year/:month/:day/:title/
 
 menus:
   main:
-    - title: 'நுழைவு'
+      title: 'நுழைவு'
       href: '/'
-    - title: 'பதிவுகள்'
+      | title: 'பதிவுகள்'
       href: '/posts/'
-    - title: 'குறிப்படனை'
+      | title: 'குறிப்படனை'
       href: '/about/'
-    - title: 'புதிய சொற்கோவைகள்'
+      | title: 'புதிய சொற்கோவைகள்'
       href: '/definitions/'
+      | title: 'பதிவிறக்கம்'
+      href: '/downloads/'
     
     
