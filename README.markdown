@@ -1,1 +1,5 @@
-This is the git workshop for bjornarneson.com, the personal website of one Bjorn Arneson.
+**தனித்தமிழகராதிக்களஞ்சியம்**
+
+உலகத் தமிழர் பயன்படுத்தும் சொற்களின் தொகுப்பு.
+
+தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர். - மகாகவி பாரதியார்
