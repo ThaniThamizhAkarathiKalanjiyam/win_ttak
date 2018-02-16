@@ -1,5 +1,5 @@
 ---
-title: 'Archived Posts'
+title: 'பதிவுகள்'
 layout: page
 published: true
 ---
