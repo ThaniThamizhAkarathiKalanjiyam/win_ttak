@@ -23,11 +23,11 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-        <ul>
+    <br />   
 	{% for item in site.menus.main %}
-	  <li><a href="{{ item.href }}">{{ item.title }}</a></li>
+	  <a href="{{ item.href }}">{{ item.title }} | 
 	{% endfor %}
-	</ul>
+	
 
       </header>
       <section>
