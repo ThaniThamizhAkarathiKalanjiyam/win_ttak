@@ -19,3 +19,5 @@ menus:
       href: '/downloads/'
     
     
+
+theme: jekyll-theme-modernist
