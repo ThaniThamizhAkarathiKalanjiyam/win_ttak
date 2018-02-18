@@ -19,15 +19,15 @@
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
 	  
-        <h3>{{ site.title | default: site.github.repository_name }}</h3>
+        <h2>{{ site.title | default: site.github.repository_name }}</h2>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-    <br />   
+    <p> 
 	{% for item in site.menus.main %}
 	  <a href="{{ item.href }}">{{ item.title }} | 
 	{% endfor %}
-	
+	</p>
 
       </header>
       <section>
@@ -40,7 +40,7 @@
     {% if site.github.is_project_page %}
       <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
