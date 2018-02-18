@@ -1,9 +1,8 @@
-<<<<<<< .mine
 title: Modernist theme
 description: Modernist is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-modernist=======
+theme: jekyll-theme-modernist
 baseurl: https://thanithamizhakarathikalanjiyam.github.io/
 title: 'தனித்தமிழகராதிக்களஞ்சியம்'
 name: 'தனித்தமிழகராதிக்களஞ்சியம்'
@@ -23,7 +22,3 @@ menus:
       href: '/definitions/'
     - title: 'பதிவிறக்கம்'
       href: '/downloads/'
-    
-    
-
-theme: jekyll-theme-modernist>>>>>>> .r98
