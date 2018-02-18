@@ -1,8 +1,5 @@
-title: தனித்தமிழகராதிக்களஞ்சியம்
-description: தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்! - மகாகவி பாரதியார்.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-modernist
+baseurl: https://thanithamizhakarathikalanjiyam.github.io/
+title: 'தனித்தமிழகராதிக்களஞ்சியம்'
 name: 'தனித்தமிழகராதிக்களஞ்சியம்'
 email: isaiyini@yahoogroups.com
 slogan: 'தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்'
@@ -20,3 +17,7 @@ menus:
       href: '/definitions/'
     - title: 'பதிவிறக்கம்'
       href: '/downloads/'
+    
+    
+
+theme: jekyll-theme-modernist
