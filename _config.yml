@@ -17,7 +17,3 @@ menus:
       href: '/definitions/'
     - title: 'பதிவிறக்கம்'
       href: '/downloads/'
-    
-    
-
-theme: jekyll-theme-modernist
