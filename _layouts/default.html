@@ -34,11 +34,11 @@
 <h1 id='title'>{{ site.name }}</h1>
 
 <div id="menu">
-	<ul>
+
 	{% for item in site.menus.main %}
-	  <li><a href="{{ item.href }}">{{ item.title }}</a></li>
+	  <a href="{{ item.href }}">{{ item.title }}</a> | 
 	{% endfor %}
-	</ul>
+
 </div>
 
 {{ content }}		
