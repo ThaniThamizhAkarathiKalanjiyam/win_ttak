@@ -5,13 +5,13 @@ body {
 }
 
 #wrap {
-  padding: 30px 0;
+  /*padding: 30px 0;*/
   max-width: 29em;
   margin: 0 auto;
 }
 
 h4#title {
-  background: url('/images/green_bear_small.png') 0 -7px no-repeat;
+  background: url('/images/favicon.ico') 0 -7px no-repeat;
   padding-left: 50px;
 }
 
