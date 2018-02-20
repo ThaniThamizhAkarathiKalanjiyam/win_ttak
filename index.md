@@ -5,4 +5,3 @@
 - PDF 
  1. [Download PDF eBooks 2017](https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/PDF_2017.zip)
  
- **தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்! - மகாகவி பாரதியார்.**
