@@ -10,7 +10,515 @@ permalink: tamilin-kirantham
 > **இப்பதிவு முழுமை அடையவில்லை, ஒரு குழுமத்தில் இருந்து எடுத்தாளப்படுகிறது. இதன் நோக்கம் கிரந்த எழுத்துகளின் சேவை தமிழுக்குத் தேவையா? என்பதே... இப்பதிவு இன்னும் நேர்த்தி செய்யப்பட வேண்டும். **
 
 
-கிரந்த எழுத்துக்களை தமிழில் 
+கிரந்த எழுத்துக்களை தமிழில் எவ்வாறு உர்வக்கப் பட்டன என்பதை அறையும் போது ஆரியம் எனச் சொல்லப்படும் சமற்கிருதத்தையும் தமிழையும் எழுத்துக்களை ஆராய்ந்தே  ஆக வேண்டும். முதலில் உயிர் எழுத்துக்களைப் பார்ப்போம்.
+
+## உயிர் எழுத்துக்கள்:
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td valign="top" bgcolor="#ccccff">1<br>
+</td>
+<td valign="top" bgcolor="#ccccff">2<br>
+</td>
+<td valign="top" bgcolor="#ccccff">3<br>
+</td>
+<td valign="top" bgcolor="#ccccff">4<br>
+</td>
+<td valign="top" bgcolor="#ccccff">5<br>
+</td>
+<td valign="top" bgcolor="#ccccff">6<br>
+</td>
+<td valign="top" bgcolor="#ccccff">7<br>
+</td>
+<td valign="top" bgcolor="#ccccff">8<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">அ<br>
+</td>
+<td valign="top">ஆ<br>
+</td>
+<td valign="top">இ<br>
+</td>
+<td valign="top">ஈ<br>
+</td>
+<td valign="top">உ<br>
+</td>
+<td valign="top">ஊ<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ரு<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ரூ<br>
+</td>
+<td valign="top">வடம்<br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">அ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஆ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">இ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஈ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">உ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஊ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">எ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஏ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்<br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">9<br>
+</td>
+<td valign="top" bgcolor="#ccccff">10<br>
+</td>
+<td valign="top" bgcolor="#ccccff">11<br>
+</td>
+<td valign="top" bgcolor="#ccccff">12<br>
+</td>
+<td valign="top" bgcolor="#ccccff">13<br>
+</td>
+<td valign="top" bgcolor="#ccccff">14<br>
+</td>
+<td valign="top" bgcolor="#ccccff">15<br>
+</td>
+<td valign="top" bgcolor="#ccccff">16<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ffcccc">லு<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">லூ<br>
+</td>
+<td valign="top">ஏ<br>
+</td>
+<td valign="top">ஐ<br>
+</td>
+<td valign="top">ஓ<br>
+</td>
+<td valign="top">ஔ<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">அம்<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">அஃ<br>
+</td>
+<td valign="top">வடம்<br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">ஐ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஒ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஓ<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஔ<br>
+</td>
+<td valign="top" bgcolor="#cccccc"><br>
+</td>
+<td valign="top" bgcolor="#cccccc"><br>
+</td>
+<td valign="top" bgcolor="#cccccc"><br>
+</td>
+<td valign="top" bgcolor="#cccccc"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ffcccc"><br>
+</td>
+<td rowspan="1" colspan="8" valign="top">ஆரியத்தில் உள்ள
+சிறப்பு அச்சுக்கள்<br>
+</td>
+</tr>
+<tr>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+இந்த அட்டவணையைக் காணும் போது ரு, ரூ,  லு, 	லூ, அம்,	அஃ என்னும் எழுத்துக்கள் தமிழில் உயிர் எழுத்துக்களில் இல்லை. ஏன்? தமிழ் என்பது உயிர் என்பதற்கு ஒரு தெளிவான விளக்கம் வைத்து உள்ளது. 
+
+## ரு, ரூ,  லு, 	லூ, அம்,	அஃ தமிழில் உயிர் அல்ல ஏன்?
+
+உடலின் முயற்சி இல்லாமலே உயிர்பெறுவது உயிர் எழுத்து ஆகும். வட மொழியில் உள்ள இந்த  ரு, ரூ,  லு, 	லூ, அம்,	அஃ எழுத்துக்கள் மெய்யினால் உருவாக்கம் பெறுகின்றன. எனவே தமிழ் உயிர் எழுத்துக்களில் இவற்றை வைக்கவில்லை
+
+
+## மெய் எழுத்துக்கள்
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td valign="top" bgcolor="#ccccff">1<br>
+</td>
+<td valign="top" bgcolor="#ccccff">2<br>
+</td>
+<td valign="top" bgcolor="#ccccff">3<br>
+</td>
+<td valign="top" bgcolor="#ccccff">4<br>
+</td>
+<td valign="top" bgcolor="#ccccff">5<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">க<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">Kha<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ga<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">Gha<br>
+</td>
+<td valign="top">ங<br>
+</td>
+<td valign="top">வடம்<br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">க<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">ங<br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்<br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">6<br>
+</td>
+<td valign="top" bgcolor="#ccccff">7<br>
+</td>
+<td valign="top" bgcolor="#ccccff">8<br>
+</td>
+<td valign="top" bgcolor="#ccccff">9<br>
+</td>
+<td valign="top" bgcolor="#ccccff">10<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">ச<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">Chha<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">Ja<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">Jha<br>
+</td>
+<td valign="top">ஞ<br>
+</td>
+<td valign="top">வடம்<br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">ச்<br>
+</td>
+<td valign="top"> <br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">ஞ்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">11<br>
+</td>
+<td valign="top" bgcolor="#ccccff">12<br>
+</td>
+<td valign="top" bgcolor="#ccccff">13<br>
+</td>
+<td valign="top" bgcolor="#ccccff">14<br>
+</td>
+<td valign="top" bgcolor="#ccccff">15<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">ட<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">tha<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">da<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">dha<br>
+</td>
+<td valign="top">ண<br>
+</td>
+<td valign="top">வடம்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">ட்<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">ண்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">16<br>
+</td>
+<td valign="top" bgcolor="#ccccff">17<br>
+</td>
+<td valign="top" bgcolor="#ccccff">18<br>
+</td>
+<td valign="top" bgcolor="#ccccff">19<br>
+</td>
+<td valign="top" bgcolor="#ccccff">20<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">த<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ttha<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ddha<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">dhaa<br>
+</td>
+<td valign="top">ந<br>
+</td>
+<td valign="top">வடம்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">த்<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">ந்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top">21<br>
+</td>
+<td valign="top">22<br>
+</td>
+<td valign="top">23<br>
+</td>
+<td valign="top">24<br>
+</td>
+<td valign="top">25<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">ப<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">pha<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ba<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">bha<br>
+</td>
+<td valign="top">ம<br>
+</td>
+<td valign="top">வடம்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">ப்<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">ம்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">26<br>
+</td>
+<td valign="top" bgcolor="#ccccff">27<br>
+</td>
+<td valign="top" bgcolor="#ccccff">28<br>
+</td>
+<td valign="top" bgcolor="#ccccff">29<br>
+</td>
+<td valign="top" bgcolor="#ccccff">30<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top">ய<br>
+</td>
+<td valign="top">ர<br>
+</td>
+<td valign="top">ல<br>
+</td>
+<td valign="top">வ<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">Sa<br>
+</td>
+<td valign="top">வடம்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">ய்</td>
+<td valign="top" bgcolor="#cccccc">ர்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ல்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">வ்<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">31<br>
+</td>
+<td valign="top" bgcolor="#ccccff">32<br>
+</td>
+<td valign="top" bgcolor="#ccccff">33<br>
+</td>
+<td valign="top" bgcolor="#ccccff">34<br>
+</td>
+<td valign="top" bgcolor="#ccccff">35<br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ffcccc">sha(ஷ)<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ssa(ஸ)<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ha(ஹ)<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ள<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">க்ஷ<br>
+</td>
+<td valign="top">வடம்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ccccff">36<br>
+</td>
+<td valign="top" bgcolor="#ccccff">37<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#ffcccc">ஷ்க<br>
+</td>
+<td valign="top" bgcolor="#ffcccc">ஷ்ப<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top">வடம்</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#cccccc">ழ்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ள்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ற்<br>
+</td>
+<td valign="top" bgcolor="#cccccc">ன்<br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top" bgcolor="#cccccc">தமிழ்</td>
+</tr>
+<tr>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+<td valign="top"><br>
+</td>
+</tr>
+</tbody>
+</table>
 
 ஆள்தமிழ்: கார்வர்டு பல்கலை தமிழிருக்கை
 
