@@ -1512,7 +1512,7 @@ align="center">தமிழ்</td>
 <td valign="top" bgcolor="#99ff99"><br>
 </td>
 <td rowspan="1" colspan="18" valign="top">தமிழில் உள்ள சிறப்பு
-உயிர்கள்<br>
+மெய்கள்<br>
 </td>
 </tr>
 <tr>
@@ -1840,7 +1840,7 @@ align="center"><br>
 <td valign="top" bgcolor="#99ff99"><br>
 </td>
 <td rowspan="1" colspan="15" valign="top">தமிழில் உள்ள சிறப்பு
-உயிர்கள்</td>
+மெய்கள்</td>
 </tr>
 <tr>
 <td valign="top" bgcolor="#cccccc"><br>
@@ -2412,9 +2412,9 @@ bgcolor="#ffff99" border="1">
 <tr>
 <td valign="top">ச<br>
 </td>
-<td rowspan="1" colspan="1" valign="top">த<br>
+<td rowspan="1" colspan="1" valign="top">ச<br>
 </td>
-<td valign="top">த<br>
+<td valign="top">ச<br>
 </td>
 </tr>
 </tbody>
@@ -2427,8 +2427,8 @@ bgcolor="#ffff99" border="1">
 <tr>
 <td valign="top">அ<br>
 </td>
-<td rowspan="1" colspan="1" valign="top">த</td>
-<td valign="top">த<br>
+<td rowspan="1" colspan="1" valign="top">க</td>
+<td valign="top">க<br>
 </td>
 </tr>
 </tbody>
@@ -2563,7 +2563,7 @@ bgcolor="#ffff99" border="1">
 <td valign="top" bgcolor="#99ff99"><br>
 </td>
 <td rowspan="1" colspan="16" valign="top">தமிழில் உள்ள சிறப்பு
-உயிர்கள்</td>
+மெய்கள்</td>
 </tr>
 <tr>
 <td valign="top" bgcolor="#cccccc"><br>
