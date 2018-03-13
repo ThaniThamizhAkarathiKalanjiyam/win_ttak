@@ -1511,8 +1511,7 @@ align="center">தமிழ்</td>
 <tr>
 <td valign="top" bgcolor="#99ff99"><br>
 </td>
-<td rowspan="1" colspan="18" valign="top">தமிழில் உள்ள சிறப்பு
-மெய்கள்<br>
+<td rowspan="1" colspan="18" valign="top">தமிழில் உள்ள சிறப்பு உயிர்கள்<br>
 </td>
 </tr>
 <tr>
@@ -1839,8 +1838,7 @@ align="center"><br>
 <tr>
 <td valign="top" bgcolor="#99ff99"><br>
 </td>
-<td rowspan="1" colspan="15" valign="top">தமிழில் உள்ள சிறப்பு
-மெய்கள்</td>
+<td rowspan="1" colspan="15" valign="top">தமிழில் உள்ள சிறப்பு மெய்கள்</td>
 </tr>
 <tr>
 <td valign="top" bgcolor="#cccccc"><br>
@@ -2562,8 +2560,7 @@ bgcolor="#ffff99" border="1">
 <tr>
 <td valign="top" bgcolor="#99ff99"><br>
 </td>
-<td rowspan="1" colspan="16" valign="top">தமிழில் உள்ள சிறப்பு
-மெய்கள்</td>
+<td rowspan="1" colspan="16" valign="top">தமிழில் உள்ள சிறப்பு மெய்கள்</td>
 </tr>
 <tr>
 <td valign="top" bgcolor="#cccccc"><br>
