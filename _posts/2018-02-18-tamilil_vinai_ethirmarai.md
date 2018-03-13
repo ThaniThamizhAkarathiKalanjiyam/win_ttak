@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: தமிழில் எதிர்மறை வினை – கால்டுவெல்
+title: தமிழில் எதிர்மறை வினை
 author: Tamilan
 layout: post
 tags: 

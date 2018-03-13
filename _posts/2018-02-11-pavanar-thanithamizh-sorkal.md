@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: பாவாணர் கூறும் தனித்தமிழ்ச்சொற்கள்
+title: பாவாணர் தனித்தமிழ்ச்சொற்கள்
 author: Tamilan
 layout: post
 tags: 

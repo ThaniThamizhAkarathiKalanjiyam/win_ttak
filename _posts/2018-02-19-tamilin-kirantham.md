@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: தமிழின் தொன்மையில் கலந்த கிரந்தமும் என்னும் சிறுமை
+title: கிரந்தம் நீக்கும் முறை வழிகாட்டி
 author: Tamilan
 layout: post
 tags: 

@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: Release Notes
+title: வெளியீடுகள்
 author: Tamilan
 layout: post
 tags: 
