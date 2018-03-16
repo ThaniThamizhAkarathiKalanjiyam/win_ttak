@@ -18,4 +18,4 @@ menus:
     - title: 'பதிவிறக்கம்'
       href: '/downloads/'
     - title: 'TTAK Membership'
-      href: '/ttakmembership/'
+      href: '/ttakmembership'

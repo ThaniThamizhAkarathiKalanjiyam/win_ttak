@@ -15,12 +15,12 @@ The Eclipse Foundation and Eclipse community is supported by our member organiza
 - Organizations that join the Eclipse Foundation
 can benefit in the following ways:
 
-	* Ability to join and participate in the Eclipse Foundation Working Groups, industry collaborations that develop new open source software platforms.
-	* Take advantage of marketing programs that target the Eclipse developer community, including advertising on eclipse.org, preferential listing on Eclipse Marketplace, exposure for commercial products on Eclipse Marketplace Client, organizing Eclipse Demo Camps, plus other programs.
-	* The right to participate in the Eclipse Board of Directors and guide the strategy of the Eclipse Foundation, through a direct seat for Strategic Members and elected seat for Sustaining Members.
-    Discounts on sponsorship and registration fees for Eclipse Foundation events, including EclipseCon NA, EclipseCon Europe and EclipseCon France.
-	* Networking opportunities with other member organizations through Foundation run events and one-on-one introductions by Foundation staff.
-    The ability to use the Eclipse Foundation member logo on your own site and have your logo listed on our members’ page and in other promotional material.
+* Ability to join and participate in the Eclipse Foundation Working Groups, industry collaborations that develop new open source software platforms.
+* Take advantage of marketing programs that target the Eclipse developer community, including advertising on eclipse.org, preferential listing on Eclipse Marketplace, exposure for commercial products on Eclipse Marketplace Client, organizing Eclipse Demo Camps, plus other programs.
+* The right to participate in the Eclipse Board of Directors and guide the strategy of the Eclipse Foundation, through a direct seat for Strategic Members and elected seat for Sustaining Members.
+Discounts on sponsorship and registration fees for Eclipse Foundation events, including EclipseCon NA, EclipseCon Europe and EclipseCon France.
+* Networking opportunities with other member organizations through Foundation run events and one-on-one introductions by Foundation staff.
+The ability to use the Eclipse Foundation member logo on your own site and have your logo listed on our members’ page and in other promotional material.
 
 Member companies and their employees also get access to the monthly Member Newsletter.
 
