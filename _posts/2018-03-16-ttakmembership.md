@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: வெளியீடுகள்
+title: உறுப்பினர் விவரம்
 author: Tamilan
 layout: post
 tags: 
