@@ -19,3 +19,4 @@ menus:
       href: '/downloads/'
     - title: 'உறுப்பினராதல்'
       href: '/ttakmembership'
+theme: jekyll-theme-modernist
