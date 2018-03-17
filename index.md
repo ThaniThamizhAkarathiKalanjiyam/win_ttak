@@ -6,7 +6,7 @@ layout: default
 <!-- Banner -->
 	<section id="banner">
 		<header>
-			<h2>Arcana: <em>A responsive site template freebie by <a href="http://html5up.net">HTML5 UP</a></em></h2>
+			<h2>தனித்தமிழகராதிக்களஞ்சியம்: <em>தேமதுரத் தமிழோசை உலகெலாம் பரவும் வகை செய்வீர்! [Isaiyini](https://groups.yahoo.com/neo/groups/isaiyini/info)</em></h2>
 			<a href="#" class="button">Learn More</a>
 		</header>
 	</section>
