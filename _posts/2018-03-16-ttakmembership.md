@@ -7,7 +7,6 @@ tags:
 - mebership
 permalink: ttakmembership
 ---
-
 == Eclipse Membership
 
 The Eclipse Foundation and Eclipse community is supported by our member organizations. Through this support, the Eclipse Foundation provides the open source community with IT, Intellectual Property, Mentors and Marketing services.
