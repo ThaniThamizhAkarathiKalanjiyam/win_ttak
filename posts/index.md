@@ -1,6 +1,6 @@
 ---
 title: 'பதிவுகள்'
-layout: page
+layout: default
 published: true
 ---
 
