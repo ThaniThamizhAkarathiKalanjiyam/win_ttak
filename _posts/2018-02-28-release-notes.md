@@ -18,13 +18,13 @@ featured: /assets/images/win_logo.jpg
 
 <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.3.zip" class="button">Download 2.8.3.30386</a>
 
-- 2018-Feb 
+- 2018-Feb-25 
 2. வடமொழியாக்கம் மென்பொருள் கூறு கிரந்த நீக்கியாக பெயர் மாற்றம்
 3. தமிழில் புதிய சொல் உருவாக்கி மென்பொருள் கூறு சேர்ப்பு
 
 <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.2.zip" class="button">Download 2.8.2.39264</a>
 
-- 2018-Jan 
+- 2018-Jan-12 
 1. வழுசேகரிப்பு 
 2. வடமொழியாக்கம் மென்பொருள் கூறு
 
