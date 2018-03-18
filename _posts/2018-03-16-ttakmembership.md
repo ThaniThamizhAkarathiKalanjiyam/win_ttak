@@ -6,6 +6,7 @@ layout: post
 tags: 
 - mebership
 permalink: ttakmembership
+excerpt: To become TTAK member
 ---
 == Eclipse Membership
 
