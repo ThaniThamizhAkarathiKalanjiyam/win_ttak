@@ -1,6 +1,6 @@
 ---
 title: எம்மைப் பற்றி
-layout: default
+layout: post
 published: true
 ---
 கட்டமைப்பில் உள்ளது.
