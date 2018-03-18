@@ -6,6 +6,7 @@ layout: post
 tags: 
 - preview
 permalink: release_notes
+featured: /assets/images/win_logo.jpg
 ---
 - விண்டோசு 
 - 2018-Feb-28 [Download 2.8.4.31333](https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.4.zip) 
