@@ -3,7 +3,6 @@ categories: blog
 title: தமிழ்ச் சொல்லின் இடைநிலைகள்
 author: Tamilan
 layout: post
-excerpt: Read more
 tags: 
 - preview
 permalink: tamil_idaieluthukkal

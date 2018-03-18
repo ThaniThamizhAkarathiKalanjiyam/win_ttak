@@ -6,7 +6,6 @@ layout: post
 tags: 
 - mebership
 permalink: ttakmembership
-excerpt: Read more
 ---
 ## Isaiyini Membership
 

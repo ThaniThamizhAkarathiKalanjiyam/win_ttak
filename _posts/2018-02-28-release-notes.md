@@ -3,7 +3,6 @@ categories: blog
 title: வெளியீடுகள்
 author: Tamilan
 layout: post
-excerpt: Read more
 tags: 
 - preview
 permalink: release_notes

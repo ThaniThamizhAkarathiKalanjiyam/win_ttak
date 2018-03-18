@@ -3,7 +3,6 @@ categories: blog
 title: தமிழ் வளர்த்த தமிழ் அறிஞர்கள்
 author: Tamilan
 layout: post
-excerpt: Read more
 tags: 
 - aringar
 permalink: tamil_valarthtor
