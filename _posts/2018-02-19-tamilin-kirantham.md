@@ -3,6 +3,7 @@ categories: blog
 title: கிரந்தம் நீக்கும் முறை வழிகாட்டி
 author: Tamilan
 layout: post
+excerpt: Read more
 tags: 
 - tamilil
 permalink: tamilin-kirantham

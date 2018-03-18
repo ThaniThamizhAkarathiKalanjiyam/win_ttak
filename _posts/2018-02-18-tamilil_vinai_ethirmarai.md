@@ -3,6 +3,7 @@ categories: blog
 title: தமிழில் எதிர்மறை வினை
 author: Tamilan
 layout: post
+excerpt: Read more
 tags: 
 - tamilil
 permalink: tamilil_vinai_ethirmarai

@@ -3,6 +3,7 @@ categories: blog
 title: பாவாணர் தனித்தமிழ்ச்சொற்கள்
 author: Tamilan
 layout: post
+excerpt: Read more
 tags: 
 - definitions
 permalink: pavanar_tamil_words

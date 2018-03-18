@@ -3,6 +3,7 @@ categories: blog
 title: நாடுகளின் பட்டியல்
 author: Tamilan
 layout: post
+excerpt: Read more
 tags: 
 - country
 permalink: country
