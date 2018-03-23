@@ -2,7 +2,6 @@
 categories: blog
 title: வெளியீடுகள்
 author: Tamilan
-layout: post
 tags: 
 - preview
 permalink: release-notes
