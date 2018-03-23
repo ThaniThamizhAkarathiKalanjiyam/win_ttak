@@ -5,7 +5,7 @@ author: Tamilan
 layout: post
 tags: 
 - preview
-permalink: release_notes
+permalink: release-notes
 featured: /assets/images/win_logo.jpg
 ---
 <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.4.zip" class="button">Download 2.8.4.31333</a>
