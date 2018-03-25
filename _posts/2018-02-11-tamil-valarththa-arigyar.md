@@ -6,6 +6,7 @@ layout: post
 tags: 
 - aringar
 permalink: tamil_valarthtor
+featured: /images/ttak-48.png
 ---
 இப்பதிவு [அறவாழித்தமிழ்](https://aravazhitamil.blogspot.in/2017/05/blog-post.html) என்னும் தளத்தில் இருந்து எடுத்து ஆளப்படுகிறது.
 

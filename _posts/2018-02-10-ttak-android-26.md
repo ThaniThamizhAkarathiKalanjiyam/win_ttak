@@ -1,7 +1,7 @@
 ---
 categories: blog
 title: ஆண்டுராய்டு பதிப்பு ௨.௬
-featured: /assets/images/pic02.jpg
+featured: /images/ttak-48.png
 author: Tamilan
 layout: post
 tags: 

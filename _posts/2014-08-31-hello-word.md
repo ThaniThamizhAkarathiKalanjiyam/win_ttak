@@ -1,6 +1,6 @@
 ---
 title: Ullamco Laboris minim veniam
-featured: /assets/images/pic01.jpg
+featured: /images/ttak-48.png
 layout: post
 excerpt: Read more
 ---

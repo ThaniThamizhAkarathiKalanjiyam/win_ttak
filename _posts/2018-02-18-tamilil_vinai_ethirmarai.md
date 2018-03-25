@@ -6,6 +6,7 @@ layout: post
 tags: 
 - tamilil
 permalink: tamilil_vinai_ethirmarai
+featured: /images/ttak-48.png
 ---
 **தமிழில் எதிர்மறை வினை – கால்டுவெல்**
 

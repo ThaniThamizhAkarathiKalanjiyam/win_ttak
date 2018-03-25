@@ -6,6 +6,7 @@ layout: post
 tags: 
 - mebership
 permalink: ttakmembership
+featured: /images/ttak-48.png
 ---
 ## Isaiyini Membership
 

@@ -6,6 +6,7 @@ layout: post
 tags: 
 - definitions
 permalink: pavanar_tamil_words
+featured: /images/ttak-48.png
 ---
 #### ஆங்கிலச் சொல் 	-	தமிழ்ச்சொல்
 		

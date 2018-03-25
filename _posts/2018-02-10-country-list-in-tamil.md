@@ -6,6 +6,7 @@ layout: post
 tags: 
 - country
 permalink: country
+featured: /images/ttak-48.png
 ---
 Latin Name 	Current Name
 Achaea[1] 	Greece
