@@ -4,13 +4,18 @@ title: வெளியீடுகள்
 author: Tamilan
 tags: 
 - preview
-permalink: release-notes
+permalink: release_notes
 featured: /assets/images/win_logo.jpg
 ---
 <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.4.zip" class="button">Download 2.8.4.31333</a>
 
-- 2018-Feb-28
+- 2018-Apr-13
 1. **பரிந்துரைக்கப்படும் பதிவிறக்கம்.**
+2. Copy All, Copy Selected, Copy Words-Only வசதி சேர்ப்பு.
+
+<a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.4.zip" class="button">Download 2.8.4.31333</a>
+
+- 2018-Feb-28
 2. சொல்லுருவாக்கியில் இடைநிலை எழுத்துக்கள் மற்றும் மெய்மயக்கம் வசதி சேர்ப்பு.
 3. PDF 2017 பதிப்பு மெனு இணையத்துடன் இணைப்பு
 
