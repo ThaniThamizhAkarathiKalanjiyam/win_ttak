@@ -7,9 +7,9 @@ tags:
 permalink: release_notes
 featured: /assets/images/win_logo.jpg
 ---
-<a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.4.zip" class="button">Download 2.8.4.31333</a>
+<a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.5.zip" class="button">Download 2.8.5.20475</a>
 
-- 2018-Apr-13
+- 2018-Apr-13 (சித்திரைப் பதிப்பு)
 1. **பரிந்துரைக்கப்படும் பதிவிறக்கம்.**
 2. Copy All, Copy Selected, Copy Words-Only வசதி சேர்ப்பு.
 
