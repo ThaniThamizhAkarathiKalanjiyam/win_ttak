@@ -6,6 +6,7 @@ tags:
 - preview
 permalink: release_notes
 featured: /assets/images/win_logo.jpg
+layout: post
 ---
 <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/thanithamizhakarathikalanjiyam.github.io/archive/ttak_2.8.5.zip" class="button">Download 2.8.5.20475</a>
 
