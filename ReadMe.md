@@ -14,9 +14,13 @@ Requirements:
 - Windows OS (XP, 7, 8)
 - Windows 10 ([The Latha font](https://duckduckgo.com/?q=The+Latha+font+download&t=seamonkey&ia=web) should be installed from the control panel)
 
-On Linux:
+On Linux/Unix:
 ---------------------------------------------------------
-Using Wine package this software can able to run.
+Using [Wine package](https://www.winehq.org/) this software can able to run on Linux/Unix systems.
+- [Wine package](https://www.winehq.org/)
+- [.NetFramework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21) 
+- [.NetFramework 3.5 Service pack 1](https://www.microsoft.com/en-us/download/details.aspx?id=22)
+
 
 .NetFramework:
 ---------------------------------------------------------
