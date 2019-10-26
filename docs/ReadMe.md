@@ -1,3 +1,7 @@
+---
+title: win_ttak
+description: English to Tamil, Tamil to English dictionary; Freeware.
+---
 ![](/images/ttak.jpg)
 
 Documentation
