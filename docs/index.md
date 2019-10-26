@@ -3,12 +3,17 @@
 Documentation
 ====================
 
-To run the application click **TamDict2018V1.exe** file. For more details visit web at [TTAK](https://thanithamizhakarathikalanjiyam.github.io/)
+- Download the zip from the above banner
+- Extract the zip file.
+- Open the etracted folder.
+- To run the application click **TamDict2018V1.exe** file. 
+- For more details visit web at [TTAK](https://thanithamizhakarathikalanjiyam.github.io/)
 
 Licence:
 =========================================================
-GNU GENERAL PUBLIC LICENSE,
-Freeware.
+
+- GNU GENERAL PUBLIC LICENSE
+- TTAK Freeware LICENSE
 
 
 Requirements:
@@ -33,4 +38,4 @@ The machine (Linux/Unix/Windows) should contain the following frameworks.
 - [.NetFramework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21) 
 - [.NetFramework 3.5 Service pack 1](https://www.microsoft.com/en-us/download/details.aspx?id=22)
 
-The corresponding files are downloaded from the Microsoft web site.
+The corresponding NetFrameworks are downloaded from the Microsoft web site.
