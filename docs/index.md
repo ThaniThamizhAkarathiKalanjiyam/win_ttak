@@ -7,7 +7,7 @@ Documentation
 - Extract the zip file.
 - Open the etracted folder.
 - To run the application click **TamDict2018V1.exe** file. 
-- For more details visit web at [TTAK](https://thanithamizhakarathikalanjiyam.github.io/)
+- For more details visit web at [TTAK](https://thanithamizhakarathikalanjiyam.github.io/ttak_web)
 
 Licence:
 =========================================================
