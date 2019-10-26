@@ -1,8 +1,3 @@
----
-title: index
-description: English to Tamil, Tamil to English dictionary; Freeware.
----
-
 ![](/images/ttak.jpg)
 
 Documentation
